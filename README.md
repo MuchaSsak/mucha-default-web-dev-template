@@ -1,3 +1,3 @@
-# Lorem, ipsum.
+# Mucha's default web dev template
 
-### Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi maiores soluta, illum ea quo facere delectus dignissimos eligendi aliquid nesciunt debitis facilis. Ipsam, iure tempore.
+### NPM package for skipping common habits before developing websites like resetting CSS styles, creating folders, setting up .html files etc. Generally for Mucha's personal use but everyone can install this using npm.
