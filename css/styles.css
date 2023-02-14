@@ -1,0 +1,27 @@
+:root {
+   /* Color variables */
+   --variable: #fff;
+
+   /* Spacing variables */
+   --variable: 1rem;
+}
+
+*::before,
+*,
+*::after {
+   box-sizing: border-box;
+}
+
+html {
+   color-scheme: dark light;
+}
+
+body {
+   font-size: 1rem;
+   font-family: sans-serif;
+   font-weight: normal;
+   text-align: center;
+   line-height: 1.6;
+   margin: 0;
+   padding: 0;
+}
